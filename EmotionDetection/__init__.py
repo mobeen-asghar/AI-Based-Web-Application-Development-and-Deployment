@@ -1,0 +1,1 @@
+print("EmotionDetection package initialized")
